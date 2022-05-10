@@ -1,4 +1,10 @@
-### Hi there 👋
+## Oi, eu sou o Professor Gustavo Czaikoski 
+
+<ul>
+  <li>Sou Bacharel em Ciência da Computação pela UNICENTRO;</li>
+  <li>Atualmente sou professor de Matemática e Pensamento Computacional;</li>
+  <li>Gamer - Programador - Pescador Amador</li>
+<ul>
 
 <!--
 **gustavoczaikoski/gustavoczaikoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
