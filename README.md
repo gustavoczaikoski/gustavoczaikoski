@@ -3,7 +3,7 @@
 <ul>
   <li>Sou Bacharel em Ciência da Computação pela UNICENTRO;</li>
   <li>Atualmente sou professor de Matemática e Pensamento Computacional;</li>
-  <li>Gamer - Programador - Pescador Amador</li>
+  <li>Gamer - Programador - Pescador Amador.</li>
 </ul>
 
 <ul>
