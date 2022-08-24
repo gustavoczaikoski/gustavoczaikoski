@@ -6,9 +6,6 @@
   <li>Gamer - Programador - Pescador Amador.</li>
 </ul>
 
-![![]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](gustavo.czaikoski@escola.pr.gov.br)
-
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 <ul>
 <li>Sei um pouco ou estou aprendendo:</li>
